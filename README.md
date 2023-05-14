@@ -1,5 +1,5 @@
 # Sorting_Searching_Algo
-This Repo consist of:
+This Repo consist of<br/>
 basic Sorting Algorithms: 
 * Bubble Sort 
 * Insertion sort
